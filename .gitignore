@@ -1,0 +1,11 @@
+.env
+Activate.ps1
+activate
+activate.bat
+deactivate.bat
+dotenv.exe
+pip.exe
+pip3.12.exe
+pip3.exe
+python.exe
+pythonw.exe
